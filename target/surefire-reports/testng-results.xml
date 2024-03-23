@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-23T10:35:26 IST" name="Suite" finished-at="2024-03-23T10:35:42 IST" duration-ms="16034">
+    <groups>
+    </groups>
+    <test started-at="2024-03-23T10:35:26 IST" name="Test" finished-at="2024-03-23T10:35:42 IST" duration-ms="16034">
+      <class name="myntra.com.SelectProduct">
+        <test-method signature="select_product()[pri:0, instance:myntra.com.SelectProduct@6580cfdd]" started-at="2024-03-23T10:35:26 IST" name="select_product" finished-at="2024-03-23T10:35:42 IST" duration-ms="15987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_product -->
+      </class> <!-- myntra.com.SelectProduct -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

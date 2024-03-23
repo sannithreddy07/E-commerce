@@ -19,6 +19,16 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+/*
+*serach a product in flipcart/myntra/amazon..etc
+*click on that product,  verify the product 
+*click on add to cart,(verify item is added to cart message ),  re-directs to another window 
+*switch to that window and click on add protection (verify protection added text)
+*Remove protection -verify protection is removed text
+*close browser
+*/
+
+
 public class SelectProduct {
 	
 	public WebDriver driver;
